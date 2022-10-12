@@ -6,3 +6,9 @@ aaaa
 ${7*7} ${{7*7}}
 <% 7*7 %>
 AAAA
+
+><script>alert(1)</script>
+"><h1>aaa</h1>
+${7*7} ${{7*7}}
+<% 7*7 %>
+AAAA
